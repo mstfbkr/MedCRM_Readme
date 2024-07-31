@@ -13,7 +13,7 @@ MEDERP is a comprehensive ERP solution designed to manage various aspects of hos
 - **Revenue Calculation**: Accurate and detailed calculation of hospital revenue, providing insights into financial performance.
 
 ## Technologies Used
-- **Backend**: .NET Framework
-- **Database**: SQL Server
+- **Backend**: .NET Core 8.0
+- **Database**: MSSQL Server
 - **Frontend**: Angular
-- **Other Tools**: Entity Framework, ASP.NET, JWT Authentication
+- **Other Tools**: Entity Framework, N-Layer Architecture, JWT Authentication
